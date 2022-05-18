@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  published_at: 2022-05-18 20:15:06
+  rate: 1
+  director: MyString
+  actor: MyString
+  duration: 1
+
+two:
+  title: MyString
+  published_at: 2022-05-18 20:15:06
+  rate: 1
+  director: MyString
+  actor: MyString
+  duration: 1
